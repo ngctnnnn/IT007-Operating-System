@@ -17,3 +17,5 @@ date > day.txt
 #Backquotes
 echo Logged in `date`
 
+echo $HOME
+echo $PATH
