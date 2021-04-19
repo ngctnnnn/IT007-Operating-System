@@ -7,3 +7,4 @@ then
 more $file
 fi
 done
+exit 0
