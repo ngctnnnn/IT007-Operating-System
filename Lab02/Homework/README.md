@@ -1,7 +1,7 @@
 # Lab02 - Homework
 ## Progress
 ### Problem 1:
-Viết chương trình ktchuoi.sh thực hiện các yêu cầu sau:   
+Viết chương trình `ktchuoi.sh` thực hiện các yêu cầu sau:   
 - Kiểm tra một chuỗi xuất hiện ở bao nhiêu tập tin trong một thư mục cho
 trước (thư mục này nằm ở thư mục hiện hành). Kết quả kiểm tra (số lần xuất
 hiện) sẽ được lưu vào một tập tin khác.    
