@@ -3,9 +3,7 @@ for file in *
 do
 if grep -l $string $file
 then
-echo "$file - yes"
-else
-echo "$file - no"
+echo "$string is in $file"
 fi
 done
 exit 0
