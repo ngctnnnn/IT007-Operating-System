@@ -1,6 +1,6 @@
 # Lab02 - Homework
 ## Progress
-### Problem 1:
+### Problem 1: Kiểm tra chuỗi
 Viết chương trình `ktchuoi.sh` thực hiện các yêu cầu sau:   
 - Kiểm tra một chuỗi xuất hiện ở bao nhiêu tập tin trong một thư mục cho
 trước (thư mục này nằm ở thư mục hiện hành). Kết quả kiểm tra (số lần xuất
@@ -22,7 +22,7 @@ tin `kq.txt` dòng chữ: *“Trong thu muc student co 3 tap tin chua chuoi abc�
 vào file `kq.txt` dòng chữ: *“Trong thu muc student khong co tap tin nao chua
 chuoi abc”*     
 
-### Problem 2:   
+### Problem 2: Tính giờ
 Viết chương trình `tinhgio.sh` thực hiện yêu cầu sau:
 
 - Tính và lưu xuống tập tin thời gian kết thúc công việc dựa trên thời gian bắt
