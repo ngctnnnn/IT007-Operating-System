@@ -1,6 +1,6 @@
 # IT007 - Operating system
 ## Lecturer:
-- MSc. Nguyễn Thanh Thiện    
+- **MSc. Nguyễn Thanh Thiện**    
 
 ## Configure shell  
 Run shell:   
