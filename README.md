@@ -3,9 +3,10 @@
 - **MSc. Nguyễn Thanh Thiện**    
 
 ## Configure shell  
-Run shell:   
+- Run `shell`   
 `/bin/sh $file_name.sh` or `chmod + x $file_name.sh; ./$file_name.sh`     
-
+- Run `C`    
+`gcc $file_name.c -o $file_name && ./$file_name`
 ## Homework progress:   
 ### Lab 1
 ### [Lab 2](https://github.com/ngctnnnn/IT007/tree/main/Lab02/Homework)     
